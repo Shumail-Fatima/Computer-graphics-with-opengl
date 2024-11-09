@@ -1,0 +1,3 @@
+﻿  Practice1.cpp
+C:\Users\KKT\Desktop\uni work\CG\CG practice\practice1\Practice1.cpp(57,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Practice1.vcxproj -> C:\Users\KKT\Desktop\uni work\CG\CG practice\practice1\Debug\Practice1.exe
